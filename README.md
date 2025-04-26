@@ -7,7 +7,7 @@ If you also enjoy solving nonograms (Japanese crosswords) from your mobile devic
 
 ## Live Version
 
-👉 [https://nonogram.ct.ws](https://nonogram.ct.ws)
+👉 [[https://nonogram.ct.ws](https://lllldarkstar.github.io/Nonogram/)]([https://nonogram.ct.ws](https://lllldarkstar.github.io/Nonogram/))
 
 ## Notes
 
