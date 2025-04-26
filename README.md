@@ -6,8 +6,8 @@ The original project belongs to the site: [https://fedimser.github.io/nonogram.h
 If you also enjoy solving nonograms (Japanese crosswords) from your mobile device, you can use my adaptation, which presents the information in a slightly more modern and mobile-friendly way.
 
 ## Live Version
-  
-👉 **[https://nonogram.ct.ws](https://lllldarkstar.github.io/Nonogram/)]([https://nonogram.ct.ws](https://lllldarkstar.github.io/Nonogram/)**
+
+👉 [https://lllldarkstar.github.io/Nonogram/](https://lllldarkstar.github.io/Nonogram/)
 
 ## Notes
 
